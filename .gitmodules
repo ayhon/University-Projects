@@ -1,0 +1,3 @@
+[submodule "DGs8-PL-Proyecto"]
+	path = DGs8-PL-Proyecto
+	url = git@github.com:ayhon/practica-pl.git

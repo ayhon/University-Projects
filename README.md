@@ -19,3 +19,4 @@
  - Cuarto
    - [Laboratorios de Inteligencia Artificial I](https://github.com/ayhon/DGs7-IA1-Laboratorios)
    - [Laboratorios de Redes](https://github.com/ayhon/DGs7-Redes-Laboratorios)
+   - [Proyecto de Procesadores de Lenguaje](https://github.com/ayhon/practica-pl)
