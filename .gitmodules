@@ -1,3 +1,6 @@
 [submodule "DGs8-PL-Proyecto"]
 	path = DGs8-PL-Proyecto
 	url = git@github.com:ayhon/practica-pl.git
+[submodule "DGs8-IA2-Practicas"]
+	path = DGs8-IA2-Practicas
+	url = https://github.com/ayhon/DGs8-IA2-Practicas
