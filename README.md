@@ -6,6 +6,7 @@
    - [Proyecto de Ingeniería de software I](https://github.com/ayhon/DGs3-IS1-Proyecto.git)
    - [Proyecto de Ingeniería de software II](https://github.com/ayhon/DGs4-IS2-Proyecto)
    - [Ejercicios de Estructuras de Datos](https://github.com/ayhon/DGs4-ED-Ejercicios)
+   - [Vídeo de Fundamentos de Algoritmia](https://youtu.be/xRyL-g8j5XI)
  - Tercero (Erasmus at EPFL)
    - [Ejercicios de _Algorithms_](https://github.com/ayhon/DGs5-Algo-Exercises)
    - [Ejercicios de _Functional Programming_](https://github.com/ayhon/DGs5-FP-Exercises)
