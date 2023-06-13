@@ -1,6 +1,54 @@
 [submodule "DGs8-PL-Proyecto"]
 	path = DGs8-PL-Proyecto
-	url = git@github.com:ayhon/practica-pl.git
+	url = https://github.com/ayhon/DGs8-PL-Proyecto
 [submodule "DGs8-IA2-Practicas"]
 	path = DGs8-IA2-Practicas
 	url = https://github.com/ayhon/DGs8-IA2-Practicas
+[submodule "DGs3-IS1-Proyecto"]
+	path = DGs3-IS1-Proyecto
+	url = https://github.com/ayhon/DGs3-IS1-Proyecto
+[submodule "DGs2-FP2-Ejercicios"]
+	path = DGs2-FP2-Ejercicios
+	url = https://github.com/ayhon/DGs2-FP2-Ejercicios
+[submodule "DGs2-FP2-Practica"]
+	path = DGs2-FP2-Practica
+	url = https://github.com/ayhon/DGs2-FP2-Practica
+[submodule "DGs4-ED-Ejercicios"]
+	path = DGs4-ED-Ejercicios
+	url = https://github.com/ayhon/DGs4-ED-Ejercicios
+[submodule "DGs4-IS2-Proyecto"]
+	path = DGs4-IS2-Proyecto
+	url = https://github.com/ayhon/DGs4-IS2-Proyecto
+[submodule "DGs5-Algo-Exercises"]
+	path = DGs5-Algo-Exercises
+	url = https://github.com/ayhon/DGs5-Algo-Exercises
+[submodule "DGs5-FP-Exercises"]
+	path = DGs5-FP-Exercises
+	url = https://github.com/ayhon/DGs5-FP-Exercises
+[submodule "DGs5-FP-Labs"]
+	path = DGs5-FP-Labs
+	url = https://github.com/ayhon/DGs5-FP-Labs
+[submodule "DGs5-FP-Notes"]
+	path = DGs5-FP-Notes
+	url = https://github.com/ayhon/DGs5-FP-Notes
+[submodule "DGs5-IML-Exercises"]
+	path = DGs5-IML-Exercises
+	url = https://github.com/ayhon/DGs5-IML-Exercises
+[submodule "DGs5-IML-Notes"]
+	path = DGs5-IML-Notes
+	url = https://github.com/ayhon/DGs5-IML-Notes
+[submodule "DGs6-AA-Homework"]
+	path = DGs6-AA-Homework
+	url = https://github.com/ayhon/DGs6-AA-Homework
+[submodule "DGs6-NO-Projects"]
+	path = DGs6-NO-Projects
+	url = https://github.com/ayhon/DGs6-NO-Projects
+[submodule "DGs6-PC-Labs"]
+	path = DGs6-PC-Labs
+	url = https://github.com/ayhon/DGs6-PC-Labs
+[submodule "DGs7-IA1-Laboratorios"]
+	path = DGs7-IA1-Laboratorios
+	url = https://github.com/ayhon/DGs7-IA1-Laboratorios
+[submodule "DGs7-Redes-Laboratorios"]
+	path = DGs7-Redes-Laboratorios
+	url = https://github.com/ayhon/DGs7-Redes-Laboratorios
